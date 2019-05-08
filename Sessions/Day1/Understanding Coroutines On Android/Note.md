@@ -1,5 +1,5 @@
 # Understanding Coroutines On Android  
-https://youtu.be/RLEQ3PAor1g?t=11107  
+https://youtu.be/RLEQ3PAor1g?t=15555  
 
 [リファレンス](https://developer.android.com/topic/libraries/architecture/coroutines#livedata)  
 
