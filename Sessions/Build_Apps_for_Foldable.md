@@ -1,4 +1,4 @@
-# Building Apps for Foldable  
+# 2. Building Apps for Foldable  
 
 Android supports foldable  
 
