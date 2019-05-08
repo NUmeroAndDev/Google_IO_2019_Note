@@ -2,9 +2,11 @@
 
 **!!個人的なメモなので、信頼しないように!!**  
 
-## 気になるセッション  
+[KeyNote](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day1/Keynote.md)
+
+## Sessions  
 ### Day1 (May 7)  
-- [What's New in Android](/Sessions/Day1/Whats New in Android/Note.md)  
+- [What's New in Android](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day1/Whats%20New%20in%20Android/Note.md)  
 
 <br />
 
@@ -12,19 +14,15 @@
 
 <br />
 
-- Beyond Mobile: Material Design, Adaptable UIs, and Flutter
+- [Build a Modular Android App Architecture](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day1/How%20to%20create%20a%20modular%20Android%20app/Note.md)   
 
 <br />
 
-- Build a Modular Android App Architecture
+- [Build Apps for Foldable, Multi-Display, and Large-Screen Devices](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day1/Build%20Apps%20for%20Foldable/Note.md)
 
 <br />
 
-- Build Apps for Foldable, Multi-Display, and Large-Screen Devices
-
-<br />
-
-- Understand Kotlin Coroutines on Android  
+- [Understand Kotlin Coroutines on Android](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day1/Understanding%20Coroutines%20On%20Android/Note.md)  
 
 <br />
 
