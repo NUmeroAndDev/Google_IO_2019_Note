@@ -1,6 +1,6 @@
 # How to create a modular Android app architecture  
 
-https://youtu.be/RLEQ3PAor1g?t=363
+https://youtu.be/RLEQ3PAor1g?t=4954
 
 - faster compile  
 

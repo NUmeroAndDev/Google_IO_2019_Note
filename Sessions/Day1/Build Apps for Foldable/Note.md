@@ -1,4 +1,5 @@
 # Building Apps for Foldable  
+https://youtu.be/kWTrQYa5sAM?t=11908
 
 Android supports foldable  
 
