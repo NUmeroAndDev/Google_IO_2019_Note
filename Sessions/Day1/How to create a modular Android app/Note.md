@@ -1,4 +1,4 @@
-# 3. How to create a modular Android app architecture  
+# How to create a modular Android app architecture  
 
 https://youtu.be/RLEQ3PAor1g?t=363
 
@@ -6,15 +6,15 @@ https://youtu.be/RLEQ3PAor1g?t=363
 
 ### Feature module  
 
-<img src="img/3_1.png" />
+<img src="img/1.png" />
 
 ### Layer module  
 
-<img src="img/3_2.png" />
+<img src="img/2.png" />
 
 UI で Entity を使いたければ Databse ↔︎ Repository は api  
 
-<img src="img/3_3.png" />
+<img src="img/3.png" />
 
 ただ、UI で Entity を知ってるのはおかしいので Model class のモジュールを追加する    
 

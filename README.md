@@ -4,7 +4,7 @@
 
 ## 気になるセッション  
 ### Day1 (May 7)  
-- What's New in Android  
+- [What's New in Android](/Sessions/Day1/Whats New in Android/Note.md)  
 
 <br />
 

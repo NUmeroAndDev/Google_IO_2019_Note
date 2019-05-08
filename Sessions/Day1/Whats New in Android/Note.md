@@ -1,10 +1,10 @@
-# 1. What's New in Android
+# What's New in Android
 
 https://youtu.be/l1e1gHhci70
 
 ### Bubbles  
 
-<img src="img/1_1.png" />
+<img src="img/1.png" />
 
 ### Dark Theme in Q
 
@@ -18,7 +18,7 @@ https://youtu.be/l1e1gHhci70
 
 ### Q Share Sheet
 
-<img src="img/1_2.png" />
+<img src="img/2.png" />
 
 ### Notification  
 
@@ -26,11 +26,11 @@ IMPORTANCE_HIGH をいつでも使うな
 
 - Notification Actions    
 
-<img src="img/1_3.png" />
+<img src="img/3.png" />
 
 ### WebView  
 
-<img src="img/1_4.png" />
+<img src="img/4.png" />
 
 ### Text  
 
@@ -40,7 +40,7 @@ LineBackgroundSpan と LineHeightSpan
 
 ### Magnifier  
 
-<img src="img/1_5.png" />  
+<img src="img/5.png" />  
 
 ### ART  
 
@@ -53,7 +53,7 @@ Q の新しい API には Nullable の Annotation
 ### Preference  
 android.preference が Deprecated   
 
-<img src="img/1_6.png" />  
+<img src="img/6.png" />  
 
 ### CameraX  
 
@@ -64,7 +64,7 @@ Easy to use camera API
 No more findViewById  
 Generate form xml files.  
 
-<img src="img/1_7.png" />  
+<img src="img/7.png" />  
 
 ### External Storage  
 

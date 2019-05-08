@@ -1,4 +1,4 @@
-# 2. Building Apps for Foldable  
+# Building Apps for Foldable  
 
 Android supports foldable  
 
@@ -9,7 +9,7 @@ Android supports foldable
 multi-window で表にあるものは全て resume になる  
 ただし、camera は複数起動できない  
 
-<img src="img/2_1.png" />  
+<img src="img/1.png" />  
 
 ### Drag-n-drop  
 
