@@ -63,7 +63,11 @@
 
 <br />
 
-- What's New in the Android Studio Build System  
+- [What's New in the Android Studio Build System](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Whats%20new%20in%20the%20Android%20Build%20System/Note.md)  
+
+<br />
+
+- [Declarative UI Patterns](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Declarative%20UI%20Patterns/Note.md)
 
 <br />
 
@@ -71,7 +75,7 @@
 
 <br />
 
-- Introduction to the CameraX Jetpack Library
+- [Introduction to the CameraX Jetpack Library](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Introduction%20to%20the%20CameraX%20Jetpack%20Library/Note.md)
 
 <br />
 
