@@ -10,10 +10,6 @@
 
 <br />
 
-- What’s New in Android Accessibility  
-
-<br />
-
 - [Build a Modular Android App Architecture](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day1/How%20to%20create%20a%20modular%20Android%20app/Note.md)   
 
 <br />
@@ -68,10 +64,6 @@
 <br />
 
 - [Declarative UI Patterns](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Declarative%20UI%20Patterns/Note.md)
-
-<br />
-
-- How Material Design Can Be Adopted and Measured for Product Success  
 
 <br />
 
