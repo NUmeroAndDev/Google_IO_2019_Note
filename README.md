@@ -35,7 +35,7 @@
 
 <br />
 
-- What's New in Android Development Tools  
+- [What's New in Android Development Tools](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Whats%20New%20in%20Android%20Development%20Tools/Note.md)  
 
 <br />
 
@@ -55,7 +55,7 @@
 
 <br />  
 
-- Jetpack Navigation  
+- [Jetpack Navigation](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Jetpack%20Navigation/Note.md)  
 
 <br />
 
@@ -79,7 +79,7 @@
 
 <br />
 
-- Best Practices for Using Text in Android  
+- [Best Practices for Using Text in Android](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day2/Best%20Practices%20for%20Using%20Text%20in%20Android/Note.md)  
 
 <br />
 
