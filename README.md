@@ -88,7 +88,9 @@
 
 <br />
 
-- How to Design a Dark Theme Using Material  
+- [How to Design a Dark Theme Using Material](https://youtu.be/9NDLR3COU7Y)  
+ガイドラインを細かく説明した感じの内容  
+いくつか例があってどのように DarkTheme を使うのがいいのかわかりやすい  
 
 <br />
 
