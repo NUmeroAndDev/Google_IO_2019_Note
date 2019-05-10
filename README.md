@@ -84,6 +84,10 @@
 
 <br />
 
+- [Supporting mobile usability with Dark Theme and Gestures in Android Q](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day3/Supporting%20mobile%20usability%20with%20Dark%20Theme%20and%20Gestures%20in%20Android%20Q/Note.md)
+
+<br />
+
 - How to Design a Dark Theme Using Material  
 
 <br />
@@ -92,10 +96,10 @@
 
 <br />
 
-- What's New with ConstraintLayout  
+- [What's New with ConstraintLayout](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day3/Whats%20new%20in%20ConstraintLayout/Note.md)  
 
 <br />
 
-- Build Bigger, Better: Gradle for Large Projects  
+- [Build Bigger, Better: Gradle for Large Projects](https://github.com/NUmeroAndDev/Google_IO_2019_Note/blob/master/Sessions/Day3/Build%20Bigger%20Better/Note.md)  
 
 <br />
