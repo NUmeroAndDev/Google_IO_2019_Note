@@ -33,3 +33,8 @@ Android Q 関連
 - [Build Testble Apps for Androidの紹介](https://speakerdeck.com/tkmnzm/introduce-build-testable-apps-for-android)   
 
 - [Bubbles](https://speakerdeck.com/shihochan/bubbles)  
+
+- [CameraX](https://speakerdeck.com/lvla/camerax)  
+
+- [getting started with dark theme](https://speakerdeck.com/punchdrunker/getting-started-with-dark-theme)  
+
